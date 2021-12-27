@@ -1,16 +1,16 @@
 ## Olá! Eu sou o Thiago Monteiro
-
-- 🌱 Estudando Python
+- 👦 Nome: Thiago Monteiro
+- 👨‍💻 Estudando Python
 - 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/ThiMonteiro">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ThiMonteiro&show_icons=true&theme=darcka&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiMonteiro&layout=compact&langs_count=7&theme=darck"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ThiMonteiro&show_icons=true&theme=darcka&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiMonteiro&layout=compact&langs_count=7&theme=darck"/>
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thiago-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ##
