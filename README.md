@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Thiago Monteiro
 - 👦 Nome: Thiago Monteiro
-- 👨‍💻 Estudando Python
-- 😄 Pronouns: ele/dele
+- 🌎 País: Brasil
+- 📘 Cursando: Análise e Desenvolvimento de Sistemas
+- 👨‍💻 Estudando Python 
 
 <div align="center">
   <a href="https://github.com/ThiMonteiro">
