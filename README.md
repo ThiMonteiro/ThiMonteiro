@@ -1,17 +1,20 @@
-## Olá! Eu sou o Thiago Monteiro
+## Olá! Me chamo Thiago
 - 👦 Nome: Thiago Monteiro
 - 🌎 País: Brasil
 - 📘 Cursando: Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Python 
+- 👨‍💻 Dev. Python 
 
 <div align="center">
   <a href="https://github.com/ThiMonteiro">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ThiMonteiro&show_icons=true&theme=darcka&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiMonteiro&layout=compact&langs_count=7&theme=darck"/>
+  
 </div>
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thiago-Html" height="50" widht="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Thiago-Css" height="50" widht="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
   
 ##
