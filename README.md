@@ -40,11 +40,17 @@
   <img align="center" alt="Thiago-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 </div>
+
+
+<div>
   <h2>Banco de Dados</h2>
-  <a href="https://www.freeiconspng.com/img/11375" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/sql-server-icon-6.jpg" width="150" alt="Sql Server For Windows Icons" /></a>
-         
-</div>
   
+  <img src="https://github.com/ThiMonteiro/ThiMonteiro/assets/96743366/d9b7c314-7f38-4cd7-95ce-0f11136b4124" height="120" width="120">
+  <img src="https://github.com/ThiMonteiro/ThiMonteiro/assets/96743366/607d2bb8-ac15-4714-b4a4-26892417f301" height="120" width="120">
+
+
+</div>
+
 ##
   
 <div> 
