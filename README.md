@@ -4,7 +4,7 @@
   <h4>Me chamo Thiago e tenho 19 anos🧑🏻</h4>
   <h4>Meu país é o Brasill.. sill... silll 🇧🇷</h4>
   <h4>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas👨🏻‍💻🖥</h4>
-  <h4>Eu Sou desenvolvedor Back-End💻</h4>
+  <h4>Eu sou desenvolvedor Back-End💻</h4>
   <h4>E todos os dias estou aprendendo algo novo</h4>
 </div>
 
@@ -12,9 +12,11 @@
 
 <div>
   <h2>Minhas Redes</h2>
+  <a href="https://github.com/ThiMonteiro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-monteiro-7286b2226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/thiagoomoonteiroo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiago.gsenior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-monteiro-7286b2226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
 </div>
 
 ##
