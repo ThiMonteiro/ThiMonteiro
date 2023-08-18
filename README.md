@@ -6,7 +6,7 @@
   - Me chamo Thiago e tenho 19 anos🧑🏻
   - Meu país é o Brasill.. sill... silll 🇧🇷
   - Estou me graduando em Análise e Desenvolvimento de Sistemas👨🏻‍💻🖥
-  - Eu sou desenvolvedor Back-End e, minha linguagem principal é Python🐍, mas atualmente estou trabalhando com C# com ASP.NET 💻
+  - Eu sou desenvolvedor Back-End e, minha linguagem principal é Python🐍, mas atualmente estou trabalhando com C# com ASP.NET
   - Atualmente estou trabalhando na Sepetiba Tecon (CSN) como estagiário na área de TI
   - Estou estudando atualmente Data Science com Python e, pretendendo aplicar para vagas mais afrentes
     
