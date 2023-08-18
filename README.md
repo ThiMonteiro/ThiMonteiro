@@ -1,14 +1,20 @@
 
 <div>
   <h2>Olaaaá!</h2>
-  <h4>Me chamo Thiago e tenho 19 anos🧑🏻</h4>
-  <h4>Meu país é o Brasill.. sill... silll 🇧🇷</h4>
-  <h4>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas👨🏻‍💻🖥</h4>
-  <h4>Eu sou desenvolvedor Back-End💻</h4>
-  <h4>E todos os dias estou aprendendo algo novo</h4>
+  <h4>Um pouco sobre mim: </h4>
+  
+  - Me chamo Thiago e tenho 19 anos🧑🏻
+  - Meu país é o Brasill.. sill... silll 🇧🇷
+  - Estou me graduando em Análise e Desenvolvimento de Sistemas👨🏻‍💻🖥
+  - Eu sou desenvolvedor Back-End e, minha linguagem principal é Python🐍, mas atualmente estou trabalhando com C# com ASP.NET 💻
+  - Atualmente estou trabalhando na Sepetiba Tecon (CSN) como estagiário na área de TI
+  - Estou estudando atualmente Data Science com Python e, pretendendo aplicar para vagas mais afrentes
+    
+  <h4>Acho que deu pra falar um pouco sobre mim kkkkkk fique à vontade para olhar os meus repositórios e comentar 😁</h4>
+
 </div>
 
-##
+
 
 <div>
   <h2>Minhas Redes</h2>
