@@ -8,7 +8,7 @@
   - Estou me graduando em Análise e Desenvolvimento de Sistemas👨🏻‍💻🖥
   - Eu sou desenvolvedor Back-End e, minha linguagem principal é Python🐍, mas atualmente estou trabalhando com C# com ASP.NET
   - Atualmente estou trabalhando na Sepetiba Tecon (CSN) como estagiário na área de TI
-  - Estou estudando atualmente Data Science com Python e, pretendendo aplicar para vagas mais afrentes
+  - Estou estudando atualmente Web(Flask e Django) com Python e, pretendendo aplicar para vagas mais afrentes
     
   <h4>Acho que deu pra falar um pouco sobre mim kkkkkk fique à vontade para olhar os meus repositórios e comentar 😁</h4>
 
