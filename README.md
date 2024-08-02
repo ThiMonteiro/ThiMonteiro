@@ -5,8 +5,8 @@
   
   - Me chamo Thiago e tenho 20 anos
   - Meu país é o Brasill.. sill... silll 🇧🇷
-  - Estou me graduando em Análise e Desenvolvimento de Sistemas
-  - Eu sou desenvolvedor Full-Stack na empresa Bíblia Online
+  - Esse ano(2024) me formei em Análise e Desenvolvimento de Sistemas
+  - Eu sou desenvolvedor Full-Stack Jr na empresa [Usante](https://www.usante.com/) 
   - No momento estou trabalhando com React, Next.js e TypeScript
 </div>
 
