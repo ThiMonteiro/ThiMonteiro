@@ -6,7 +6,7 @@
   - Me chamo Thiago e tenho 20 anos
   - Meu país é o Brasill.. sill... silll 🇧🇷
   - Esse ano(2024) me formei em Análise e Desenvolvimento de Sistemas
-  - Eu sou desenvolvedor Full-Stack Jr na empresa [Usante](https://www.usante.com/) 
+  - Eu sou desenvolvedor Full-Stack na empresa [Usante](https://www.usante.com/) 
   - No momento estou trabalhando com React, Next.js e TypeScript
 </div>
 
