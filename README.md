@@ -3,7 +3,7 @@
   <h2>Olaaaá!</h2>
   <h4>Um pouco sobre mim: </h4>
   
-  - Me chamo Thiago e tenho 21 anos
+  - Me chamo Thiago e tenho 22 anos
   - Meu país é o Brasill.. sill... silll 🇧🇷
   - Sou formado Análise e Desenvolvimento de Sistemas
   - Eu sou desenvolvedor Full-Stack na empresa [Usante](https://www.usante.com/) 
